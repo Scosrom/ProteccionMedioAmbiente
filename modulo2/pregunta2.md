@@ -25,7 +25,7 @@ Estos riesgos son los causados por la actividad del hombre y son su responsabili
 
 Algunos ejemplos de estos riesgos pueden ser:
 
-- Vertidos tóxicos.
+- [Vertidos tóxicos.](vertido.jpeg)
 - Nubes químicas.
 - Efecto invernadero y destrucción de la capa de ozono.
 - Posibles incendios de inmuebles.
