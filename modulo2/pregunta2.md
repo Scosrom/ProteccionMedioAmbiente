@@ -17,7 +17,7 @@ Algunos ejemplos de este tipo de riesgo pueden ser:
 - Avalanchas.
 - Tormentas de agua, polvo y arena.
 - Cambios excesivos en la temperatura.
-- [!Incendios forestales.](incendio.jepg)
+- [Incendios forestales.](incendio.jepg)
 
 ### 2.- Los riesgos ambientales antrópicos.
 
