@@ -5,7 +5,7 @@
 ![basura-electronica](https://user-images.githubusercontent.com/114906778/201602248-010453eb-09bb-4a0f-a219-c948657a5dab.jpg)
 ## Introducción
 
-El ser humano a interactuado con el medio ambiente desde siempre, obteniendo y utilizando todos los recursos en se encuentra en el. Pero el continuo crecimiento de la población y el uso desmedidos de estos recursos está provocando grandes daños en el entorno.
+El ser humano a interactuado con el **medio ambiente** desde siempre, obteniendo y utilizando todos los recursos en se encuentra en el. Pero el continuo *crecimiento de la población y el uso desmedidos de estos recursos* está provocando grandes daños en el entorno.
 En este trabajo vamos a hablar sobre la Protección del medio Ambiente y su importancia. En los siguientes puntos vamos a desarrollar el tema respondiendo a cada pregunta planteada.
 
 ## Contenidos
