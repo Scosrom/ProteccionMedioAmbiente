@@ -9,7 +9,7 @@ Estos riesgos son los causados por la propia naturaleza, como pueden ser los fen
 Algunos ejemplos de este tipo de riesgo pueden ser:
 
 - Escasez de lluvia e incremento de las sequías.
-- Ciclones y tormentas.
+- [Ciclones y tormentas.](descarga.jpeg)
 - Contaminación de la atmósfera.
 - Plagas.
 - Crecidas de ríos y mares.
